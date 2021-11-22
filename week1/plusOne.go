@@ -10,8 +10,8 @@ func plusOne(digits []int) []int {
 				digits[i] += 1
 				break
 			}
-			
-            digits[i] = 0
+
+			digits[i] = 0
 		}
 	}
 
